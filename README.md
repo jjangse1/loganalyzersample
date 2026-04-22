@@ -263,7 +263,7 @@ A. 상단 Font 셀렉터에서 크기를 키워보세요 (M → L → XL).
 
 - **개발**: JANG SEMIN
 - **문의**: roasterhealing@gmail.com  
-- **GitHub**: [jjangse1/cc](https://github.com/jjangse1/cc)
+- **GitHub**: https://jjangse1.github.io/skhynix
 
 > 이 툴에 추가하고 싶은 Checklist 항목, 센서 임계값, SOP 링크가 있다면 언제든지 제안해주세요.  
 > 엔지니어의 경험이 쌓일수록 툴도 함께 성장합니다. 🔧
